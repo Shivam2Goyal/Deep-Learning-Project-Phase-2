@@ -1,0 +1,2 @@
+distance_metric,ap_original,ap_normalized,improvement,curve_r2
+lpips_vgg_2,0.9999499987499687,0.9999496224842809,-3.7626568782922476e-07,0.329904600498372

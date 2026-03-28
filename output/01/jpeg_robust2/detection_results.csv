@@ -1,0 +1,3 @@
+,fake_dir,transform,repo_id,distance_metric,ap,tpr5fpr
+0,data\raw\generated\sd1-5,jpeg_50,runwayml/stable-diffusion-v1-5,lpips_vgg_2,0.854225317877011,0.34
+1,data\raw\generated\sd1-5,jpeg_50,max,lpips_vgg_2,0.854225317877011,0.34

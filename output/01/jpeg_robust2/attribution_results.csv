@@ -1,0 +1,3 @@
+,dir,transform,distance_metric,repo_id,fraction
+0,data\raw\generated\sd1-5,jpeg_50,lpips_vgg_2,runwayml/stable-diffusion-v1-5,1.0
+1,data\raw\real,jpeg_50,lpips_vgg_2,runwayml/stable-diffusion-v1-5,1.0

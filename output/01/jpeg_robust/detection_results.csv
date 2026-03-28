@@ -1,0 +1,9 @@
+,fake_dir,transform,repo_id,distance_metric,ap,tpr5fpr
+0,data\raw\generated\sd1-5,clean,runwayml/stable-diffusion-v1-5,lpips_vgg_2,0.9999501243781095,1.0
+1,data\raw\generated\sd1-5,jpeg_80,runwayml/stable-diffusion-v1-5,lpips_vgg_2,0.96529171590761,0.81
+2,data\raw\generated\sd1-5,jpeg_70,runwayml/stable-diffusion-v1-5,lpips_vgg_2,0.9318218597758956,0.615
+3,data\raw\generated\sd1-5,jpeg_60,runwayml/stable-diffusion-v1-5,lpips_vgg_2,0.8928875435749424,0.485
+4,data\raw\generated\sd1-5,clean,max,lpips_vgg_2,0.9999501243781095,1.0
+5,data\raw\generated\sd1-5,jpeg_80,max,lpips_vgg_2,0.96529171590761,0.81
+6,data\raw\generated\sd1-5,jpeg_70,max,lpips_vgg_2,0.9318218597758956,0.615
+7,data\raw\generated\sd1-5,jpeg_60,max,lpips_vgg_2,0.8928875435749424,0.485

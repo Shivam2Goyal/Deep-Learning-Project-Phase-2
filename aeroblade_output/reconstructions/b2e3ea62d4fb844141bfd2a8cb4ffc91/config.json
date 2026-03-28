@@ -1,0 +1,1 @@
+{"ds": "Dataset ImageFolder\n    Number of datapoints: 1\n    Paths: [WindowsPath('example_images/MJ5-1.png')]\n    Transform: Compose(\n      ToImage()\n      ToDtype(scale=True)\n)", "repo_id": "runwayml/stable-diffusion-v1-5", "output_root": "aeroblade_output\\reconstructions", "seed": "1"}

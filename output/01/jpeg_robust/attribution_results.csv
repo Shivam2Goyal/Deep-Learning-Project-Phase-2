@@ -1,0 +1,9 @@
+,dir,transform,distance_metric,repo_id,fraction
+0,data\raw\generated\sd1-5,clean,lpips_vgg_2,runwayml/stable-diffusion-v1-5,1.0
+1,data\raw\generated\sd1-5,jpeg_80,lpips_vgg_2,runwayml/stable-diffusion-v1-5,1.0
+2,data\raw\generated\sd1-5,jpeg_70,lpips_vgg_2,runwayml/stable-diffusion-v1-5,1.0
+3,data\raw\generated\sd1-5,jpeg_60,lpips_vgg_2,runwayml/stable-diffusion-v1-5,1.0
+4,data\raw\real,clean,lpips_vgg_2,runwayml/stable-diffusion-v1-5,1.0
+5,data\raw\real,jpeg_80,lpips_vgg_2,runwayml/stable-diffusion-v1-5,1.0
+6,data\raw\real,jpeg_70,lpips_vgg_2,runwayml/stable-diffusion-v1-5,1.0
+7,data\raw\real,jpeg_60,lpips_vgg_2,runwayml/stable-diffusion-v1-5,1.0

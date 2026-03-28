@@ -1,0 +1,62 @@
+# .venv
+# __pycache__
+# 2023_aeroblade.egg-info
+# playground.ipynb
+# data
+# output*
+# cache
+# weights
+# .vscode
+# debug
+# lightning_logs
+# tmp
+# aeroblade_output
+# aeroblade_data
+
+# Large data directories
+data/
+
+# Cached reconstructions and joblib cache
+cache/
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+*.egg
+*.egg-info/
+dist/
+build/
+eggs/
+.eggs/
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# Virtual environments
+venv/
+env/
+.venv/
+.env/
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Model weights downloaded by HuggingFace (cached outside repo)
+*.safetensors
+*.bin
+*.pt
+*.pth
+
+# Temp files
+*.tmp
+tete.py
+reader.py
+show_data.py
+merge_parquet.py
+commands.txt
