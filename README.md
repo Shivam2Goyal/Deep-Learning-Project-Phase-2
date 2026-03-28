@@ -2,7 +2,7 @@
 
 > **Course:** \<Deep Learning (CSL4020)>  
 > **Team:** Ekta Saini · Shivam Goyal · Tanisha Saini  
-> **YouTube Demo:** [Watch Here](\https://www.youtube.com/watch?v=qMDmaoCTJYM)  
+> **YouTube Demo:** [Watch Here](https://www.youtube.com/watch?v=qMDmaoCTJYM)  
 > **Base Paper:** [AEROBLADE — CVPR 2024](https://openaccess.thecvf.com/content/CVPR2024/html/Ricker_AEROBLADE_Training-Free_Detection_of_Latent_Diffusion_Images_Using_Autoencoder_Reconstruction_CVPR_2024_paper.html)  
 > **Original Codebase:** [jonasricker/aeroblade](https://github.com/jonasricker/aeroblade)
 
